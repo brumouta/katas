@@ -1,0 +1,10 @@
+
+.DS_Store
+
+typescript/smartfridgekata/.idea/
+
+typescript/smartfridgekata/node_modules/
+
+python/kata-environment/__pycache__/
+
+python/kata-environment/.idea/
